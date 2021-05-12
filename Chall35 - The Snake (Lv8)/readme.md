@@ -1,3 +1,5 @@
+![The Snake](challenge35.jpg)
+
 ## The Snake
 
 Cunning snake has a little riddle for you:
