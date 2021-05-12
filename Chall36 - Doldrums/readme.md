@@ -1,3 +1,5 @@
+![Doldrums](challenge36.jpg)
+
 ## Doldrums
 
 Without wind, no ship can sail.
