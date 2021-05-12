@@ -1,3 +1,5 @@
+![Finding Mnemo](challenge33.jpg)
+
 ## Finding Mnemo
 
 Dorie has forgotten everything again... Luckily, there is a backup:
