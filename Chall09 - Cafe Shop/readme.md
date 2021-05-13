@@ -14,4 +14,5 @@ They also serve hash browns, for $256.
 ## How-to:
 * finding: sha256(POST param) contains order name in hex speak (cafe, c01a, beef)
 * idea: find an item ID for "COLA DECAF" (=name) so that sha256(ID + name) in hex contains "c01a" and "decaf"
+
 impremented in cafe.py
