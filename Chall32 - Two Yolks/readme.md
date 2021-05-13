@@ -2,7 +2,10 @@
 
 ## Two Yolks
 This egg has two yolks.
+
 But the second seems to be hidden somehow.
+
+![twoyolks.png](twoyolks.png)
 
 ## Solution
 * I've tried typical stegano tools but they all failed.
