@@ -36,4 +36,13 @@ They also serve hash browns, for $256.
 * it finds ```37374099 COLA DECAF``` which's sha256 hash contains ```decaf``` and ```c01a```:
   ```f5ba3332710abaf7d01decaff966e3e6cc579a5274f8be9cf3442d3c01a373fb```
 * when POST-requesting ```id=37374099+COLA+DECAF``` we receive:
+
   ![Cafe_Shop_response_flag](Cafe_Shop_response_flag.png)
+  
+#### The moral of the story, respectively challenge
+
+Just because something like the id seems _random_, doesn't mean it is.
+
+Just because we don't provide the Client with such a _magic_ number, doesn't mean they can't figure it out.
+
+> security by obscurity is no security at all
