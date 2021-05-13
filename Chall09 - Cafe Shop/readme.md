@@ -43,6 +43,6 @@ They also serve hash browns, for $256.
 
 Just because something like the id seems _random_, doesn't mean it is.
 
-Just because we don't provide the Client with such a _magic_ number, doesn't mean they can't figure it out.
+Just because we don't provide the Client with a certain _magical_ piece of information, doesn't mean they can't figure it out.
 
 > security by obscurity is no security at all
