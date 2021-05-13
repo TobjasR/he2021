@@ -32,7 +32,7 @@ They also serve hash browns, for $256.
 ```
   … and we have to order "COLA DECAF" …
 * idea: find an item **ID** for "COLA DECAF" (=name) so that sha256(ID + name) in hex contains "c01a" and "decaf"
-* **impremented in [cafe.py](cafe.py)** ☑
+* **solution implemented in [cafe.py](cafe.py) ☑**
 * it finds ```37374099 COLA DECAF``` which's sha256 hash contains ```decaf``` and ```c01a```:
   ```f5ba3332710abaf7d01decaff966e3e6cc579a5274f8be9cf3442d3c01a373fb```
 * when POST-requesting ```id=37374099+COLA+DECAF``` we receive:
