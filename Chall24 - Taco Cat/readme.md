@@ -1,11 +1,12 @@
 ## Taco Cat
 Was it a cat I saw?
+
 [tacocat.zip](tacocat.zip)
 ### Hint:
 lowercase
 
 ## Solution
-* interpretinf the hint: somthing about **palindromes** maybe?!
+* interpreting the hint in the challenge title, title pic and ziped file **eggge.png**: somthing about **palindromes** maybe?!
 * extract hash from encrypted zip file with zip2john -> [tacocat.hash](tacocat.hash)
 * trying to crack it with rockyou.lst fails…
 * then we have to try more sophisticated bruteforce with palindroms 
